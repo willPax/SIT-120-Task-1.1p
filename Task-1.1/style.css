@@ -1,0 +1,15 @@
+
+h1{
+    background-color: pink;
+    color: teal;
+    size: 50pt;
+    text-align: center;
+}
+
+#box{
+    background-color: grey;
+    text-align: center;
+    font-size: large;
+    color: orange;
+
+}
